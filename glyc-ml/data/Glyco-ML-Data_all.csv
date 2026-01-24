@@ -1,4 +1,4 @@
-x1	x2	x3	x4	x5	x6	x7	x8	x9	x10	x11	x12	x13	x14	x15	x16	x17	x18	x19	x20	x21	x22	x23	y1
+x1	x2	x3	x4	x5	x6	x7	x8	x9	x10	x11	x12	x13	x14	x15	x16	x17	x18	x19	x20	x21	x22	x23	y
 STol	b	N3	equatorial	OBn	OBn	equatorial	OBn	270	-	-	-	-	-	-	1_OH	primary	100	-40 ℃	DCM	0.167M	1:1.5	NIS_TfOH	0
 STol	b	OBn	equatorial	OBn	OBn	equatorial	OBn	2656	-	-	-	-	-	-	1_OH	primary	100	-40 ℃	DCM	0.167M	1:1.5	NIS_TfOH	0
 STol	b	OBn	equatorial	OBn	OBn	axial	OBn	17000	-	-	-	-	-	-	1_OH	tertiary	80	-40 ℃	DCM	0.167M	1:1.5	NIS_TfOH	62
@@ -805,3 +805,4 @@ STol	b	N3	equatorial	OBn	4_6_OCHPh	equatorial	4_6_OCHPh	5.6	OMe	a	OBn	OBn	OBn	OH
 																							
 																							
 																							
+
