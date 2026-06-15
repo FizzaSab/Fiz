@@ -1,0 +1,802 @@
+x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15,x16,x17,x18,x19,x20,x21,x22,x23,y
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,62
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,83
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,40
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,47
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,66
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,27
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,40
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,77
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,36
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,47
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,62
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,40
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,50
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,50
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,38
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,43
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,32
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,35
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,31
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,23
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,45
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,45
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,47
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,78
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,47
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,38
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,20
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,41
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,85
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,18
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,40
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,26
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,40
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,62
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,69
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,76
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,73
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,33
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,45
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,38
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,45
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,78
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,47
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,11
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,24
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,0
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,59
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,71
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,27
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,27
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,18
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,55
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,71
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,13
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,40
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,83
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,20
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,55
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,71
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,12
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,27
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,91
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,19
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,52
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,62
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,21
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,30
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,77
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,100
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,33
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,33
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,91
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,92
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,35
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,33
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,78
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,83
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,34
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,75
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,77
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,91
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,IDCP,NaN
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,20
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,31
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,78
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,22
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,72
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,86
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,23
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,40
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,52
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,72
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,53
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,84
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,30
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,50
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,52
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,72
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,53
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,48
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,35
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,54
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,52
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,72
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,61
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,73
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.5,NIS_TfOH,77
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,87
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,20
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,31
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,78
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,22
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,72
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,86
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,63
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,30
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,64
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,77
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,44
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,68
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,77
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,THF,0.167M,1:1.5,NIS_TfOH,89
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,25
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,20
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,71
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,72
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,58
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,61
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,63
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,Toluene,0.167M,1:1.5,NIS_TfOH,83
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,0
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,10
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,26
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,75
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,55
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,68
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,64
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/ACN,0.167M,1:1.5,NIS_TfOH,79
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,40
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,50
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,79
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,75
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,50
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/DMF,0.167M,1:1.5,NIS_TfOH,84
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,69
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,54
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,89
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,90
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,62
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,78
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,92
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,20
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,31
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,78
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,22
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,72
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.5,NIS_TfOH,86
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,42
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,38
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,69
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,75
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,31
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,64
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,62
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.308M,1:1.5,NIS_TfOH,80
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,38
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,41
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,70
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,72
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,24
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,69
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.051M,1:1.5,NIS_TfOH,78
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,46
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,32
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,74
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,26
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,72
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.036M,1:1.5,NIS_TfOH,74
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,50
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,36
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,63
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,70
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,30
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,68
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,70
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.018M,1:1.5,NIS_TfOH,77
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.0,NIS_TfOH,55
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.0,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.0,NIS_TfOH,74
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,84
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,30
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,50
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,50
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,72
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,53
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,72
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,0 ℃,DCM,0.167M,1:1.0,NIS_TfOH,71
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,48
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,35
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,54
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,52
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,70
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,61
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,75
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,25 ℃,DCM,0.167M,1:1.0,NIS_TfOH,77
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,88
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,18
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,35
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,73
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,78
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,25
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,70
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,66
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40 ℃,DCM,0.167M,1:1.0,NIS_TfOH,88
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.0,NIS_TfOH,63
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.0,NIS_TfOH,35
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40 ℃,THF,0.167M,1:1.0,NIS_TfOH,64
+STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-20 ℃,DCM,0.167M,1:1.0,NIS_TfOH,77
+,,,,,,,,,,,,,,,,,,,,,,,x1
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,62
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,82
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,87
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,93
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,38
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,69
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,84
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,72
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,64
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,38
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,69
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,78
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,91
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,24
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,67
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,84
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,92
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,53
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,7
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,70
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,38
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,80
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,19
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,57
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,NaN
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,55
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,52
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,NaN
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,97
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,92
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,92
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,NaN
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,NaN
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,NaN
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,46
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,20
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,44
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,92
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,89
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,41
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,39
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,18
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,NaN
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,68
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,18
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,54
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,82
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,90
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,75
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,21
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,36
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,73
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,78
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,48
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,58
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,85
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,93
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,84
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,33
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,21
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,80
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,59
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,31
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,NaN
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,NaN
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,NaN
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,63
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,58
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,NaN
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,NaN
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,NaN
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,NaN
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,NaN
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,30
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,72
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,46
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,46
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,39
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,80
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,67
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,NaN
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,33
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,60
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,75
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,76
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,NaN
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,20
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,73
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,94
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,66
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,64
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,88
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,96
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,81
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,60
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,60
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,77
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,78
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,68
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,74
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,32
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,61
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,96
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,56
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,88
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,90
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,93
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,74
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,87
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,20
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,tertiary,80,70
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,72
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,60
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,55
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,90
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,97
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,60
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,30
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,primary,100,52
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,50
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,66
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,35
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,,,,,,,1_OH,Secondary,1.36,68
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,53
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,Secondary,1.36,37
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,83
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,78
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,65
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,80
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,75
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,75
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,66
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,71
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,75
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,50
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,75
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,52
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,Secondary,1.36,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,primary,100,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,,,,,,,1_OH,Secondary,1.36,NaN
+DCM,0.167M,1:1.5,IDCP,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,NaN
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,86
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,91
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,74
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,62
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,52
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,87
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,85
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,70
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,74
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,84
+DCM,0.167M,1:1.5,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,83
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,48
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,80
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,80
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,74
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,84
+DCM,0.167M,1:1.5,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,83
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,84
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,49
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,51
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,50
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,58
+DCM,0.167M,1:1.5,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,48
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,43
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,86
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,91
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,74
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,62
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,52
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,87
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,28
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,55
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,87
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,58
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,33
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,49
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,89
+THF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,68
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,22
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,85
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,23
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,47
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,80
+Toluene,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,43
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,94
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,85
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,84
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,87
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,96
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,91
+DCM/ACN,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,45
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,23
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,40
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,87
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,38
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,63
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,50
+DCM/DMF,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,38
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,52
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,63
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,77
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,55
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,55
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,68
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,82
+DCM/p-Dioxane,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,32
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,86
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,91
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,74
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,62
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,52
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,87
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,76
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,62
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,87
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,63
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,82
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,81
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,89
+DCM,0.308M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,60
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,72
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,65
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,65
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,72
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,76
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,85
+DCM,0.051M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,58
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,61
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,74
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,69
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,70
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,61
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,85
+DCM,0.036M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,62
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,53
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,47
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,45
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,68
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,80
+DCM,0.018M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,55
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,86
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,88
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,74
+DCM,0.167M,1:1.5,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,52
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,80
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,85
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,70
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,68
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,84
+DCM,0.167M,1:0.66,NIS_TfOH,-20 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,83
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,50
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,80
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,68
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,60
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,76
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,84
+DCM,0.167M,1:0.66,NIS_TfOH,0 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,83
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,85
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,49
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,51
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,66
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,62
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,50
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,58
+DCM,0.167M,1:0.66,NIS_TfOH,25 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,48
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,43
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,78
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,86
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,89
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,74
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,65
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,2656,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,52
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,b,OBn,equatorial,OBn,OBn,axial,CH3,72000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,88
+DCM,0.167M,1:0.66,NIS_TfOH,-40 ℃,STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,62
+C1-Modification,C1_stereo_donor,C2-Modification,d_2_stereo,d_3_sub,d_4_sub,C4_stereo_donor,C6_Modification,RRV,C1_Modification-a,C1_stereo_acceptor,a_2_sub,C3_Modification_a,C4-Modification_a,C6-Modification_a,Alcohol_position,Alcohol_type,Aka,temperature,Solvent,Concentartion,Stoichiometery,promoter,a-ratio
+x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15,x16,x17,x18,x19,x20,x21,x22,x23,y1
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.05
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.05
+imidate,a,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TMSOTf,0.05
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,,,,,,,1_OH,primary,17,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,,,,,,,1_OH,primary,17,-40,DCM,0.167M,01:01.5,NIS_TfOH,0
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.1
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.14
+imidate,a,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TMSOTf,0.13
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.15
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.2
+imidate,a,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,0.25
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.25
+imidate,a,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,TMSOTf,0.45
+STol,b,N3,equatorial,OBz,4_6_OCHPh,equatorial,4_6_OCHPh,18.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.1
+STol,b,N3,equatorial,OBz,4_6_OCHPh,equatorial,4_6_OCHPh,18.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.1
+STol,b,N3,equatorial,OBz,4_6_OCHPh,equatorial,4_6_OCHPh,18.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.2
+STol,b,N3,equatorial,OBz,4_6_OCHPh,equatorial,4_6_OCHPh,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.14
+STol,b,N3,equatorial,OBz,4_6_OCHPh,equatorial,4_6_OCHPh,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.2
+STol,b,N3,equatorial,OBz,4_6_OCHPh,equatorial,4_6_OCHPh,18.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.29
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,NIS_TfOH,0
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,TMSOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TMSOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,NIS_TfOH,0
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,TMSOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,14,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.1
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,14,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.1
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,,,,,,,1_OH,primary,14,-40,DCM,0.167M,01:01.5,TMSOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.1
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.2
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TMSOTf,0
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.09
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TMSOTf,0.13
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OH,OBn,OBn,OBn,2_OH,secondary,4.77,-40,DCM,0.167M,01:01.5,TMSOTf,0.25
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.22
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.25
+imidate,a,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,0.13
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.1
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.17
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.13
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.33
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.2
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.42
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.37
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.07
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.25
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.2
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.58
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,TMSOTf,0.19
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.3
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TMSOTf,0.4
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,STol,b,OBn,OBn,OBn,OH,6_OH,primary,5.86,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.45
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OH,OBn,4_6_OCHPh,4_6_OCHPh,2_OH,secondary,4.27,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.33
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OH,OBn,4_6_OCHPh,4_6_OCHPh,2_OH,secondary,4.27,-40,DCM,0.167M,01:01.5,TMSOTf,0.4
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.33
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.45
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,0.5
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.6
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.62
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,STol,b,OBn,OH,OBn,OBn,3_OH,secondary,1.62,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.75
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.6
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.72
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,1,-40,DCM,0.167M,01:01.5,TMSOTf,0.6
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.25
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.33
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.42
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.67
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.58
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,,,,,,,1_OH,phenyl,1.32,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.95
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,,,,,,,1_OH,phenyl,1.32,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.6
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.45
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.4
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.36
+imidate,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TMSOTf,0.33
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,STol,a,N3,OBn,OBn,OH,6_OH,primary,4.15,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.75
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,STol,a,N3,OBn,OH,OBn,4_OH,secondary,2.6,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.91
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,STol,a,N3,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.7,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.2
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,,,,,,,1_OH,primary,17,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.38
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,,,,,,,1_OH,primary,17,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.33
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,,,,,,,1_OH,benzyl,13.1,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.53
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.8
+STol,b,OBn,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,7180,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.33
+imidate,a,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TMSOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.4
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,STol,a,N3,OBn,OBn,OH,6_OH,primary,4.15,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.8
+imidate,a,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,0.86
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,phenyl,2.86,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.75
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,STol,a,N3,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.7,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.8
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.91
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.67
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.67
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.4
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.75
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+imidate,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TMSOTf,0.25
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,tertiary,80,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,tertiary,80,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.75
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.8
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.88
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.9
+imidate,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.9
+imidate,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,TMSOTf,0.95
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.3
+STol,b,N3,equatorial,OBn,OBn,equatorial,OBn,270,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-70,DCM,0.167M,01:01.5,NIS_TMSOTf,0.17
+imidate,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,,,,,,,1_OH,tertiary,80,-78,DCM,0.167M,01:01.5,TMSOTf,0.14
+imidate,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-50,DCM,0.167M,01:01.5,TMSOTf,0.06
+imidate,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-50,DCM,0.167M,01:01.5,TMSOTf,0.33
+imidate,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-50,DCM,0.167M,01:01.5,TMSOTf,0.33
+STol,a,OBn,axial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,315,STol,a,N3,OBn,OH,OBn,4_OH,secondary,2.6,-50,DCM,0.167M,01:01.5,NIS_TMSOTf,0.06
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TMSOTf,0.11
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-78,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,NIS_TMSOTf,0.43
+imidate,a,OBn,equatorial,OBn,OBn,equatorial,OBn,18.6,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TMSOTf,0.2
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,,,,,,,1_OH,primary,100,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.11
+STol,b,H,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,4000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.67
+STol,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,NIS_TMSOTf,0.5
+imidate,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TMSOTf,0.6
+imidate,a,OBn,axial,OBn,OBn,equatorial,OBn,5000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,0.75
+imidate,a,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-78,DCM,0.167M,01:01.5,TMSOTf,0.63
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.83
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.83
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,NIS_TMSOTf,0.95
+STol,a,H,equatorial,OBn,OBn,axial,OBn,300000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TMSOTf,0.89
+imidate,a,H,equatorial,OBn,OBn,axial,OBn,300000,,,,,,,1_OH,phenyl,1.36,-78,DCM,0.167M,01:01.5,TMSOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,secondary,126,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.94
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,primary,100,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.95
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.83
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,benzyl,5.76,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,STol,a,H,OBn,OH,OBn,4_OH,secondary,2.31,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,a,H,equatorial,OBn,OBn,equatorial,OBn,1000000,,,,,,,1_OH,secondary,126,-70,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.33
+imidate,a,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TMSOTf,0.25
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.23
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.4
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,1_2_acetonide,a,1_2_acetonide,3_4_acetonide,3_4_acetonide,OH,6_OH,primary,6.53,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,STol,a,N3,OBn,OBn,OH,6_OH,primary,4.15,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.5
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.8
+imidate,a,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OBn,OH,OBn,4_OH,secondary,3.51,-40,DCM,0.167M,01:01.5,TMSOTf,0.86
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,,,,,,,1_OH,phenyl,2.86,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.7
+STol,b,OBn,equatorial,OBn,OBn,axial,OBn,17000,STol,a,N3,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.7,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.8
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.92
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,secondary,126,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.67
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.65
+STol,b,H,equatorial,OBn,OBn,equatorial,H,90000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.4
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.4
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,,,,,,,1_OH,primary,100,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.38
+STol,b,H,equatorial,OBn,4_6_OCHPh,axial,4_6_OCHPh,110000,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,1
+imidate,a,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TMSOTf,0.13
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OH,4_6_OCHPh,4_6_OCHPh,3_OH,secondary,1.88,-40,DCM,0.167M,01:01.5,NIS_TfOH,0.25
+STol,b,N3,equatorial,OBn,4_6_OCHPh,equatorial,4_6_OCHPh,5.6,OMe,a,OBn,OBn,OBn,OH,6_OH,primary,7.16,-40,DCM,0.167M,01:01.5,TolSCl_AgOTf,0.1
