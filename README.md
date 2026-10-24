@@ -1,73 +1,52 @@
-**Decoding the Multi-Dimensional Complexity of Glycosylation Reaction via Machine Learning**
+# Glycosylation reaction prediction and condition optimization
 
-GlycoEnv
+**Related manuscript:** *Decoding the Multidimensional Complexity of Glycosylation Reactions via Machine Learning* (JACS manuscript ja-2026-034613).
 
-Machine-learning analysis and inverse design of glycosylation stereoselectivity
+This repository provides the original uploaded research data, prediction exports, visualizations, and a provenance review for the bidirectional glycosylation machine-learning study. **Its present contents do not constitute an independently verified, end-to-end reproduction of all manuscript results.** No additional measurements, predicted values, model scores, or EFI calibration coefficients have been invented during repository cleanup.
 
-**What this project does**
+## Scientific workflow in the revised manuscript
 
-This repository contains the Python code and Jupyter notebooks used to analyze glycosylation reactions using machine learning.
-The models predict α-selectivity (α-ratio) and reaction yield from glycosylating agent/alcohol structure and reaction conditions, and are further used for inverse design to identify reaction conditions that maximize or minimize α-selectivity for a fixed glycosylating agent-alcohol pair.
+1. **Descriptors:** glycosylating agent, alcohol, RRV, Aka, stereochemical and structural variables, and environmental conditions such as temperature, solvent, concentration, stoichiometry, and promoter.
+2. **Forward ML prediction:** predict α/β stereoselectivity and yield for specified molecular and reaction conditions.
+3. **Reverse condition selection:** hold the glycosylating agent/alcohol pair fixed and evaluate conditions to identify high- and low-α-selectivity options, which are then tested experimentally.
+4. **Environmental Factor Impact (EFI):** a post-prediction, model-derived index for describing and ranking condition-dependent behavior. **It is not the same as a supervised binary EFI label classifier.**
+5. **Validation:** keep training/fitting, held-out, external and prospective experimental evaluations separate. Do not present fitted-data predictions as unseen test performance.
 
-The goal is to quantitatively understand how environmental parameters (solvent, temperature, promoter, concentration, stoichiometry, RRV, Aka) influence glycosylation outcomes and to enable data-driven condition optimization.
+This summary follows the revised manuscript and reviewer responses; it is **not** a claim that the exact model implementations have all been recovered in this repository.
 
-Repository structure
+## Repository map
 
-01_feature_importance.ipynb-
-Calculates feature-importance scores to identify which structural and environmental variables most strongly affect α-ratio and yield.
+| Location | What is actually present |
+| --- | --- |
+| `cleaned_glycosylation_dataset.csv` | Original uploaded glycosylation dataset (801 CSV data rows); retained unmodified |
+| `filtered_feature_data/` | Original feature export |
+| `predicted_alpha_ratios_out_of_sample.csv` | Original 169-row alpha-prediction export; record-level matching to other data has not been verified |
+| `hybrid/` | Original hybrid feature-importance export; not a complete trained-model release |
+| `*.html`, image directories | Original exported plots and analysis artifacts, **not modified or regenerated** |
+| `archive/unverified_workflows/glyc-ml/` | Byte-identical original experimental scripts and data, archived due to incompatible EFI-classifier descriptions and unresolved preprocessing/split issues |
+| `archive/unverified_workflows/reverse-optimization/` | Byte-identical original scripts, archived because the fallback yield and EFI refitting cannot be established as the final published reverse-mode method |
+| `review/` | Specific discrepancies, original Git-blob inventory, and a read-only structural/syntax check |
 
-02_modeling_y1_y2.ipynb-
-Trains and evaluates multiple machine-learning models (Random Forest, Gradient Boosting, XGBoost, CatBoost, SVR, AdaBoost, Linear, Ridge, Lasso, Decision Tree) for:
+The previous README referred to three executable notebooks (`01_feature_importance.ipynb`, `02_modeling_y1_y2.ipynb`, `03_inverse_design.ipynb`) that **are not in this repository snapshot**. These instructions have been removed rather than inventing notebooks.
 
-y1: α-ratio
+## Start here
 
-y2: reaction yield
+```bash
+python review/verify_repository.py
+```
 
-Performance is assessed using RMSE, MAE, R², Spearman correlation, and normalized metrics.
+This check uses only the Python standard library. It reports file presence, CSV row counts, and Python syntax, **not predictive accuracy or manuscript reproducibility**.
 
-03_inverse_design.ipynb
-Uses trained surrogate models to recommend experimentally realistic reaction conditions that maximize or minimize α-selectivity while keeping reactivity descriptors (RRV, Aka) fixed.
+## Source provenance and limitations
 
-**Environmental Factor Impact (EFI)**
+- Original research artifacts and all figures have been left unchanged. Archived source/data use exactly their pre-cleanup Git blobs; their previous locations are preserved in the backup branch `reviewer-ready-original-code`.
+- In the archived `glyc-ml/` scripts, the so-called random split is a contiguous row-order split. Do not describe it as the verified publication split.
+- The archived reverse optimization substitutes a yield of 50% if no fitted yield predictor is found. **This is not a measured yield or a verified prediction and must not be used as such.**
+- The archived EFI classifier is distinct from the manuscript's calibrated post-prediction EFI index.
+- The 190 rows in the archived external dataset must **not** be automatically paired with the 169 rows in the alpha-prediction CSV.
+- The authoritative original model object, final model weights/encoders, exact EFI coefficients and reverse-mode implementation, and full experimental row-ID mappings must be verified before releasing an executable reproduction of the published analyses.
+- No accuracy metrics were recomputed during the cleanup. Refer to the manuscript and Supporting Information for the reported numerical results.
 
-The Environmental Factor Impact (EFI) index integrates predicted α-ratio and yield with environmental parameters into a single quantitative descriptor.
-EFI is used to compare reaction efficiency across different conditions and to connect small changes in reaction environment with shifts in stereoselectivity.
+See [review/AUDIT.md](review/AUDIT.md) for code-specific findings and [review/ORIGINAL_BLOB_INVENTORY.csv](review/ORIGINAL_BLOB_INVENTORY.csv) for the original source blob IDs.
 
-Data and preprocessing
-
-Categorical variables are one-hot encoded.
-
-α-ratio and yield are treated as continuous targets.
-
-Failed reactions are handled consistently during preprocessing (see notebooks for details).
-
-All preprocessing steps are explicitly implemented in the notebooks for transparency.
-
-Installation and reproducibility
-
-Python 3.10
-
-Core packages: numpy, pandas, scipy, scikit-learn, matplotlib, seaborn
-
-Optional: xgboost, catboost
-
-A fixed random seed (random_state = 42) is used throughout.
-Package versions can be exported via pip freeze for exact reproducibility.
-
-**Inverse design philosophy**
-
-Inverse design does not extrapolate beyond chemistry represented in the dataset.
-Candidate reaction conditions are sampled from experimentally observed ranges and combinations, ensuring that suggested conditions remain chemically plausible.
-
-**Code availability**
-
-Analyses were performed in Python.
-
-Source code: https://github.com/FizzaSab/Fiz
-
-Step-by-step tutorials: https://github.com/FizzaSab/Fizza_tutorial
-
-Intended audience
-
-This repository is written for organic chemists and reviewers.
-No prior machine-learning expertise is required to run the notebooks or interpret the results.
+**Reproducibility policy:** never fill missing parts with placeholder models, default yield values, synthetic observations, silently changed encodings or fitted values selected merely to match reported numbers.
