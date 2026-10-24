@@ -1,6 +1,6 @@
 # Decoding the Multidimensional Complexity of Glycosylation Reactions via Machine Learning
 
-**Bidirectional prediction of glycosylation stereoselectivity and reaction yield**
+**Bidirectional prediction of glycosylation stereoselectivity, reaction yield, and conditions**
 
 Precise control of glycosylation stereoselectivity remains challenging because reaction outcomes are influenced by the structures and reactivities of the reacting partners and by the reaction environment. Solvent, temperature, promoter, concentration, and stoichiometry can affect the relative formation of α- and β-glycosides, often through interacting effects.
 
