@@ -1,62 +1,49 @@
 # Decoding the Multidimensional Complexity of Glycosylation Reactions via Machine Learning
 
-**Bidirectional prediction and reaction-condition optimization**
+### Bidirectional prediction of glycosylation stereoselectivity and reaction yield
 
-**Related manuscript:** *Decoding the Multidimensional Complexity of Glycosylation Reactions via Machine Learning* (JACS manuscript ja-2026-034613).
+Glycosylation is strongly influenced by the structures and reactivities of the reacting partners, as well as the conditions under which the reaction is carried out. Even small changes in temperature, solvent, promoter, or concentration can lead to different stereochemical outcomes. Our work explores these relationships using machine learning, with the aim of making reaction prediction and condition selection more systematic.
 
-## Overview
+We developed a bidirectional framework that combines chemical descriptors and experimental reaction conditions to predict **α-selectivity** and **reaction yield**. The forward model estimates the outcome of a specified glycosylating agent–alcohol combination under given conditions. In the reverse direction, the model is used to explore conditions for a fixed pair of reacting partners and identify those associated with higher or lower α-selectivity. The resulting predictions are then assessed through experimental comparisons.
 
-This repository contains the glycosylation reaction datasets, model-analysis exports, figures, and supporting code associated with our study of reaction stereoselectivity and yield. The approach combines structural and reactivity descriptors with reaction-environment information to study how experimental conditions influence glycosylation outcomes.
+An important part of this study is the **Environmental Factor Impact (EFI) index**. EFI brings together predicted reaction outcomes and environmental contributions into a condition-dependent index. It helps us compare reaction environments and examine regions in which the preferred stereochemical outcome changes. The index is intended to support chemical interpretation, not to identify a reaction intermediate or pathway on its own.
 
-The bidirectional framework has two complementary functions:
+## Research workflow
 
-- **Forward prediction:** Given a glycosylating agent, alcohol, and reaction conditions, the model estimates α-selectivity and reaction yield.
-- **Reverse condition optimization:** For a specified glycosylating agent/alcohol pair, candidate conditions are evaluated to identify high- and low-α-selectivity regions for subsequent experimental testing.
+The study follows a connected workflow, from reaction data to experimental evaluation:
 
-We also introduce the **Environmental Factor Impact (EFI) index**, a model-derived measure calculated from predicted reaction outcomes and environmental factors. EFI is used to compare condition-dependent behavior and identify regions associated with changes in selectivity. These associations are considered together with experimental evidence; EFI is not treated as direct identification of reaction intermediates.
+**Reaction data and descriptors → Hybrid machine-learning models → Forward prediction → Reverse condition search → EFI analysis → Experimental validation**
 
-## Workflow
+The input descriptors cover structural and stereochemical properties of the glycosylating agent and alcohol, their reactivity parameters (RRV and Aka), and reaction conditions such as solvent, temperature, concentration, stoichiometry, and promoter. Random Forest and XGBoost are among the models used in the hybrid prediction framework.
 
-1. **Data and descriptors.** Curate reaction records and describe the glycosylating agent, alcohol, RRV, Aka, stereochemical features, solvent, temperature, concentration, stoichiometry, and promoter.
-2. **Model development.** Train and evaluate regression models for α-selectivity and reaction yield, including the hybrid random-forest/XGBoost approach.
-3. **Forward prediction.** Predict outcomes from specified substrates and reaction conditions.
-4. **Reverse prediction.** Fix the glycosylating agent/alcohol pair and evaluate candidate conditions to find predicted selectivity extrema.
-5. **EFI analysis.** Calculate and interpret the EFI index alongside the predicted outcomes and environmental settings.
-6. **Experimental comparison.** Compare selected predicted conditions with measured stereoselectivity and yield, distinguishing model fitting from independent evaluation.
+The forward predictions provide estimates of stereoselectivity and yield. For reverse prediction, the reacting partners are held fixed while selected reaction conditions are varied within the investigated chemical space. EFI provides an additional way to examine how these environmental changes relate to predicted outcomes. Experimental results are used to evaluate the condition-dependent selectivity shifts.
 
-The relevant model results, validation details, and EFI formulation are described in the manuscript and Supporting Information.
+## Data, analyses, and figures
 
-## Repository contents
-
-| Path | Contents |
+| File or directory | Contents |
 | --- | --- |
 | `cleaned_glycosylation_dataset.csv` | Glycosylation reaction data |
-| `filtered_feature_data/` | Feature-data export |
+| `filtered_feature_data/` | Feature data |
 | `hybrid/` | Hybrid-model feature-importance results |
 | `predicted_alpha_ratios_out_of_sample.csv` | Exported α-selectivity predictions |
-| Root-level `*.html` files | Interactive model analyses, performance plots, SHAP, and reaction-condition results |
-| Figure folders (`Features/`, `Yield/`, `a-ratio/`, etc.) | Original plots and graphical outputs |
-| `archive/unverified_workflows/` | Earlier exploratory implementations, retained separately from the manuscript workflow |
-| `review/` | Implementation notes, file inventory, and data-structure checks |
+| `Hybrid_train-test-2.html`, `a-ratio_ML-training-test-plots.html`, `Yield-ML-training-test-plots.html` | Model training and evaluation visualizations |
+| `SHAP-2.html`, `Feature_attribution.html` | Feature-attribution analyses |
+| `Reaction_condition_prediction-2.html` | Reaction-condition prediction results |
+| `Features/`, `a-ratio/`, `Yield/`, and other figure folders | Figures and graphical results |
+| `archive/unverified_workflows/` | Earlier exploratory code and associated data |
+| `review/` | Methodological notes, source-file inventory, and structural checks |
 
-The original figures, analysis exports, and reaction records are retained without modification.
+Additional HTML reports in the repository contain the corresponding model-performance and prediction visualizations.
 
-## Code and reproducibility
+## Code availability and reproducibility
 
-The repository includes original analysis artifacts and selected source files. Some files document exploratory implementations rather than the final models used for the manuscript. These earlier scripts are retained under `archive/unverified_workflows/` and should not be used as substitutes for the reported final EFI calculation or reverse-optimization procedure.
+This repository brings together the available research data, analysis outputs, figures, and selected computational scripts. The earlier scripts in `archive/unverified_workflows/` document development-stage experiments; they are distinct from the final EFI formulation and reverse-condition procedure described in the manuscript.
 
-A simple consistency check can be run with:
+Reproduction of the complete numerical workflow requires the matching fitted models, preprocessing and encoding settings, EFI calibration, and the identifiers connecting individual predictions with experimental observations. The exported results and figures are provided here, while the model-validation details, EFI equations, and experimental analyses are documented in the manuscript and Supporting Information.
 
-```bash
-python review/verify_repository.py
-```
+Further information about the available implementations and dataset relationships is included in the [methodological notes](review/AUDIT.md).
 
-This check examines file availability, CSV row counts, and Python syntax. It does not retrain the models or reproduce the manuscript's numerical results.
+## Manuscript
 
-For the reported model performance, dataset definitions, EFI formulation, and experimental validation, refer to the main manuscript and Supporting Information. The complete published workflow should only be rerun with its corresponding original preprocessing settings, trained models, and record-level validation mappings.
-
-Further implementation notes are available in [review/AUDIT.md](review/AUDIT.md).
-
-## Scope
-
-The repository is intended to make the available data, plots, and computational analyses accessible to researchers interested in carbohydrate synthesis and machine-learning-assisted reaction optimization. Reported experimental findings and mechanistic interpretations should be read in the context of the manuscript and its Supporting Information.
+*Decoding the Multidimensional Complexity of Glycosylation Reactions via Machine Learning*  
+JACS manuscript **ja-2026-034613**.

@@ -1,12 +1,9 @@
-# Earlier computational workflows
+# Exploratory modeling scripts
 
-This directory retains earlier exploratory code and related data used during development of the glycosylation modeling workflow. These files remain available for methodological reference and comparison with the final manuscript.
+This directory contains early computational experiments from the development of the glycosylation prediction framework.
 
-## Contents
+The `glyc-ml/` directory covers feature processing, model fitting, and an EFI-label classification experiment. The binary classification formulation is separate from the continuous, post-prediction EFI index presented in the manuscript.
 
-- **`glyc-ml/`** — Earlier feature-processing, regression, and EFI-label classification experiments. The binary EFI-label task differs from the post-prediction EFI index reported in the manuscript. Its dataset splitting and input-schema assumptions also require separate interpretation.
-- **`reverse-optimization/`** — Earlier condition-search experiments. The script includes a fallback constant yield and a separately fitted EFI approximation; these are not presented as the final validated bidirectional implementation.
+The `reverse-optimization/` directory contains an earlier condition-search implementation. It includes a fallback yield value when a yield predictor is unavailable and a separately fitted EFI approximation. These calculations are not equivalent to the final experimentally evaluated reverse-prediction method.
 
-For analysis of these differences, see [Implementation and data notes](../../review/AUDIT.md).
-
-The original files remain unchanged within this directory. The previous directory layout is preserved on the `reviewer-ready-original-code` branch.
+The files are retained as development-stage material. Their relationship to the manuscript workflow and available data is described in the [methodological notes](../../review/AUDIT.md).

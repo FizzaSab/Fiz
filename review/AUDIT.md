@@ -1,31 +1,25 @@
-# Implementation and data notes
+# Methodological notes
 
-These notes document the organization and interpretation of computational files associated with *Decoding the Multidimensional Complexity of Glycosylation Reactions via Machine Learning*.
+The computational files accompanying our glycosylation study include datasets, prediction exports, figures, and scripts from different stages of model development. The final research framework focuses on forward prediction of α-selectivity and yield, reverse exploration of reaction conditions, and interpretation using the Environmental Factor Impact (EFI) index.
 
-## Repository organization
+## EFI and reverse prediction
 
-The main repository contains the original reaction datasets, exported predictions, figures, and model-analysis files. Earlier exploratory scripts are retained in `archive/unverified_workflows/` to distinguish them from the final bidirectional model described in the manuscript. A copy of the previous repository structure is available on the `reviewer-ready-original-code` branch.
+In the manuscript, EFI is a model-derived index calculated from predicted outcomes and reaction-environment information. An earlier exploratory implementation under `archive/unverified_workflows/glyc-ml/` instead uses a binary `EFI_label` classification task. This is a separate modeling exercise and does not represent the EFI calculation used in the manuscript.
 
-Original plotted figures, HTML visualizations, reaction observations, and exported prediction values have not been changed in this reorganization. The original file identifiers are listed in [ORIGINAL_BLOB_INVENTORY.csv](ORIGINAL_BLOB_INVENTORY.csv).
+The earlier `archive/unverified_workflows/reverse-optimization/src/inverse_optimize.py` script uses a constant yield of 50% if a fitted yield predictor is unavailable and estimates a separate EFI approximation. These fallback calculations are not experimental measurements and are not used as evidence of the final reverse-prediction results.
 
-## Interpretation of individual scripts
+## Dataset and model correspondence
 
-**EFI formulation.** The EFI index discussed in the manuscript is calculated using model-predicted outcomes and environmental information. The earlier `glyc-ml/` workflow includes a supervised binary `EFI_label` classification formulation, which is a different task. It is therefore kept as an exploratory implementation rather than used to reproduce the reported EFI index.
+The archived `glyc-ml/src/prepare_features.py` script partitions observations in row order, despite using the filename `random` for its split output. Its data encoding and expected feature names also differ from some of the available datasets. Consequently, that script alone does not establish the train/test partitions or exact preprocessing applied in the manuscript.
 
-**Reverse condition optimization.** The earlier `reverse-optimization/src/inverse_optimize.py` implementation can substitute a fixed 50% yield when a fitted yield predictor is unavailable and includes an independently fitted EFI approximation. This behavior does not establish the final reverse-prediction method reported in the manuscript, so the script is retained for reference only.
+The external dataset kept with the exploratory scripts contains 190 rows, while the root-level `predicted_alpha_ratios_out_of_sample.csv` contains 169 records. These files cannot be matched by row position without corresponding reaction identifiers.
 
-**Dataset splitting.** The split generator in `glyc-ml/src/prepare_features.py` uses row order for its 90:10 partition even though the output is named `random`. This partition should not be interpreted as evidence of the held-out partition used for the manuscript.
+A separate combined hybrid-model script from the development materials specifies an assumed 50:50 Random Forest/XGBoost weighting and includes an incomplete placeholder class. That assumption is not sufficient to determine the weighting or prediction method of the fitted model used for the reported results.
 
-**Data schema.** The archived training scripts and source datasets contain differences in expected column names and encoding. The final model's preprocessing settings and feature order are needed to reproduce its predictions.
+## Reproducibility
 
-**External-prediction matching.** The archived external dataset has 190 records, whereas `predicted_alpha_ratios_out_of_sample.csv` contains 169 prediction records. These files represent differently sized sets and should be matched only through verified reaction identifiers, not row position.
+Complete reproduction of the final analysis depends on the corresponding trained model objects, feature encoding and ordering, validation splits, EFI coefficients, reverse-search settings, and observation-level links between predictions and experiments.
 
-**Hybrid-model weighting.** A separate combined script includes an assumed 0.50 RF/XGBoost weight and a placeholder `HybridRF_XGB` class. These values are not sufficient to establish the original fitted hybrid model. The original trained model and prediction method take precedence.
+The files in this repository allow inspection of the available data and outputs, but do not by themselves establish all of those elements. The `verify_repository.py` utility checks file structure, CSV record counts, and Python syntax; it is not a model-validation or performance-reproduction script.
 
-## Reproduction requirements
-
-Full numerical reproduction of the manuscript requires the corresponding original trained model objects, feature encoders, partition assignments, EFI coefficients/calibration, reverse-search settings, and record identifiers linking experimental outcomes to predictions.
-
-The files currently supplied here support inspection of the datasets, exported analyses, and source-code history. The `verify_repository.py` utility checks structure and syntax only; it does not estimate R² or RMSE, validate EFI numerically, or rerun the experimental analysis.
-
-Model-performance and experimental-validation results should be cited from the manuscript and Supporting Information rather than inferred from exploratory scripts or unmatched datasets.
+The manuscript and Supporting Information provide the scientific definitions, reported model performance, EFI formulation, and experimental-validation results. Earlier exploratory scripts are kept separately to avoid conflating development-stage calculations with the reported study.
