@@ -12,7 +12,7 @@ We also developed the **Environmental Factor Impact (EFI) index** to examine the
 
 ## Research approach
 
-**Reaction data → Chemical and environmental descriptors → Bidirectional hybrid machine-learning model → Forward prediction and reverse condition selection → EFI analysis → Experimental validation**
+**Reaction data → Chemical and environmental descriptors → Bidirectional hybrid machine-learning model → Forward prediction → EFI analysis and reverse condition selection → Experimental validation**
 
 The input descriptors include structural and stereochemical characteristics of the reacting partners, relative reactivity values (RRV), acceptor reactivity (Aka), temperature, solvent, concentration, stoichiometry, and promoter. Model evaluation and feature-attribution analyses provide additional insight into the relationships captured by the models.
 
