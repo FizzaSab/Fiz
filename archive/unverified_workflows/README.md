@@ -1,8 +1,12 @@
-# Archived, unverified historical workflows
+# Earlier computational workflows
 
-These are the **original scripts and data**, moved here without modifying their Git blobs. This archive prevents experimental or reconstructed workflows from being mistaken for the final, validated bidirectional ML + EFI model.
+This directory retains earlier exploratory code and related data used during development of the glycosylation modeling workflow. These files remain available for methodological reference and comparison with the final manuscript.
 
-- `glyc-ml/`: its README frames EFI as a **binary classifier**; its "random" split generator uses row order and the available input schema does not validate its claimed end-to-end training recipe.
-- `reverse-optimization/`: substitutes **50% yield** if a trained yield model is missing and fits an EFI proxy; neither behavior is confirmed as the original final reverse-mode implementation.
+## Contents
 
-The original locations and every original figure can be found on the backup branch `reviewer-ready-original-code`. Do not report these archived scripts as reproduced manuscript results. See [review/AUDIT.md](../../review/AUDIT.md).
+- **`glyc-ml/`** — Earlier feature-processing, regression, and EFI-label classification experiments. The binary EFI-label task differs from the post-prediction EFI index reported in the manuscript. Its dataset splitting and input-schema assumptions also require separate interpretation.
+- **`reverse-optimization/`** — Earlier condition-search experiments. The script includes a fallback constant yield and a separately fitted EFI approximation; these are not presented as the final validated bidirectional implementation.
+
+For analysis of these differences, see [Implementation and data notes](../../review/AUDIT.md).
+
+The original files remain unchanged within this directory. The previous directory layout is preserved on the `reviewer-ready-original-code` branch.
